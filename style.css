@@ -363,7 +363,7 @@ body {
     margin-bottom: 0;
   }
   .social-links {
-    margin-left: 12.2rem;
+    margin-left: 10.2rem;
   }
 
   .contact-info {
@@ -371,7 +371,7 @@ body {
   }
   .email {
     position: absolute;
-    right: 62.2rem;
+    right: 56.2rem;
     top: 168.2rem;
   }
 }
@@ -382,6 +382,9 @@ body {
   }
   .email {
     right: 72.2rem;
+  }
+  .social-links {
+    margin-left: 12.2rem;
   }
 }
 
