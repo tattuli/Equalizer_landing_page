@@ -284,11 +284,11 @@ body {
   }
 }
 
-/* 928px */
-@media (min-width: 58em) {
+/* 960px */
+@media (min-width: 60em) {
   .container {
-    width: 134rem;
-    background-position: 112.5rem -4rem;
+    width: 128rem;
+    background-position: 105.5rem -4rem;
     background-size: 22%;
   }
 
